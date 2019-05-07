@@ -5,5 +5,5 @@ if hungry=='yes':
 else:
     thristy=input('enter your feedback')
     if thristy=='yes':
-        print('drink water')
+        print('drink water or soda')
     print('do you homeword')
